@@ -64,33 +64,33 @@ plt.xticks(rotation=45)
 plt.show()
 
 
-💡 Key Insights
+## 💡 Key Insights
 
-Critical Risk Factor: Customers using Electronic Checks exhibit the highest churn rates, suggesting friction in this payment process.
+**Critical Risk Factor: Customers using Electronic Checks exhibit the highest churn rates, suggesting friction in this payment process.**
 
-Service Vulnerability: Fiber optic users churn more frequently than DSL users, indicating potential issues with pricing or stability.
+**Service Vulnerability: Fiber optic users churn more frequently than DSL users, indicating potential issues with pricing or stability.**
 
-Contract Loyalty: Month-to-month contracts are the strongest predictors of churn; customers on two-year contracts show the highest loyalty.
+**Contract Loyalty: Month-to-month contracts are the strongest predictors of churn; customers on two-year contracts show the highest loyalty.**
 
-Financial Thresholds: High monthly charges combined with short tenure are primary indicators of early-stage attrition.
+**Financial Thresholds: High monthly charges combined with short tenure are primary indicators of early-stage attrition.**
 
-📁 Requirements
+## 📁 Requirements
 
-To run this project locally, ensure you have the following dependencies installed:
+**To run this project locally, ensure you have the following dependencies installed:**
 
-pandas>=1.3.0
+**pandas>=1.3.0
 numpy>=1.20.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
-jupyter>=1.0.0
+jupyter>=1.0.0**
 
 
-👨‍💻 Author
+**👨‍💻 Author :-**
 
-Rakesh Kumar Mistri Aspiring Data Analyst
+**Rakesh Kumar Mistri Aspiring Data Analyst**
 
-GitHub: rakeshkumarmistri010413-collab
+**GitHub: rakeshkumarmistri010413-collab**
 
-LinkedIn: https://www.linkedin.com/in/rakesh-kumar-mistri-07ab15334/
+**LinkedIn: https://www.linkedin.com/in/rakesh-kumar-mistri-07ab15334/**
 
-Email: rakeshkumarmistri010413@gmail.com
+**Email: rakeshkumarmistri010413@gmail.com**
